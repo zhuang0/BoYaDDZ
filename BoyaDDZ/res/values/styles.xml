@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="GameStyle" parent="@android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:screenOrientation">landscape</item>
+    </style>
+
+</resources>
